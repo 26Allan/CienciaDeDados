@@ -1,0 +1,17 @@
+Na primeira parte, 12 fotos eram mostradas aos usuários.
+Na segunda parte, outras 12 fotos eram mostradas.
+Na terceira parte, 48 fotos eram mostradas e perguntava-se aos usuários se aquela foto havia sido vista na primeira parte, na segunda ou em nenhuma.
+Após os testes, os usuários recebiam duas pontuações:
+
+Uma "pontuação de reconhecimento", calculada como o número de vezes, em percentagem, que o usuário acertou se viu ou não o rosto, não importando em qual parte do teste
+Uma "pontuação de memória temporal", calculada como o número de rostos, em percentagem, reconhecidos e identificados na parte correta (parte 1 ou parte 2).
+Os usuários eram aconselhados a tirar cinco minutos de pausa entre cada parte do teste.
+
+
+
+Analise o arquivo contendo todos os resultados de testes de memória da BBC. Para todas as variáveis que fazem sentido, calcule o valor da média. Para as demais explique porque calcular a média não faz sentido.
+Fim da conversa no bate-papo
+Digite uma mensagem...
+
+__RESPOSTA MINITESTE 5__
+A primeira coluna não pode ser calculada a media pois ela possui valores nominais. A segunda coluna o resultado de (6,69704918) e na media da quarta coluna o resultado deu(77,54898975).
